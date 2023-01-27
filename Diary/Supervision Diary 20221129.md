@@ -7,7 +7,6 @@
 ## **Plan your targets and next steps**
 
 ### **Targets**
-
 1. Set up a method for recording meeting notes
 2. Do a data protection course.  
 3. Get hold of I2B2 data set.
