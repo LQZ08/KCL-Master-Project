@@ -12,7 +12,17 @@ https://github.com/LQZ08/KCL-Master-Project/tree/main/Diary
 - 13/01/2023
 - 20/01/2023 (discuss important literature)
 - 27/01/2023 
-- 
+- 10/02/2023
+- 10/03/2023
+- 31/03/2023
+- 07/04/2023
+- 28/04/2023
+- 12/05/2023
+- 26/05/2023
+- 23/06/2023
+- 19/07/2023
+- 28/07/2023
+- 16/08/2023
 
 
 ### Information
@@ -23,5 +33,8 @@ https://github.com/LQZ08/KCL-Master-Project/tree/main/Diary
 * Biostatistics and Health Informatics
 * Institute of Psychiatry, Psychology and Neuroscience (IOPPN)
 * King's College London
- 
+
+### Report
+https://github.com/LQZ08/KCL-Master-Project/tree/main/Report
+
 
